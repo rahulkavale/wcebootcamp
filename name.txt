@@ -1,9 +1,7 @@
 Shikha Dixit
 Pooja Gupta
 Rahul Kavale
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Suyog Jain
 Pushkar Dravid
 Pushkar Dravid
@@ -50,10 +48,14 @@ Added name -tushar
 =======
 New Name:tushar
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> My name is added
 
 =======
 >>>>>>> My name is added
+=======
+My name is added
+>>>>>>> qtw
 Name:tushar
 Anusha Bhat
 Rajnandini Ranbhare
@@ -71,6 +73,7 @@ Roho added
 hemant bhingarde
 swapnil gaikwad
 Shantanu jamble
+<<<<<<< HEAD
 <<<<<<< HEAD
 Rushikesh Dharmadhikari
 
@@ -94,6 +97,8 @@ Rushikesh Dharmadhikari
 
 
 
+=======
+>>>>>>> qtw
 
 
 
@@ -114,6 +119,7 @@ Shital
 <<<<<<< HEAD
 java
 <<<<<<< HEAD
+<<<<<<< HEAD
 Pooja Kale
 Shikha Dixit
 Pushkar Dravid
@@ -126,3 +132,6 @@ sadhana kale akshara
 =======
 Shilkumar jadhav shilkumarjadhav@gmail.com
 >>>>>>> My name is added
+=======
+Shilkumar jadhav 
+>>>>>>> qtw
