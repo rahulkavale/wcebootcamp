@@ -1,5 +1,6 @@
 Rahul Kavale
 Pushkar Dravid
+Vaibhav More
 Dattaprasad Mundada
 Anusha Bhat 
 Rajnandini Ranbhare
@@ -10,3 +11,4 @@ Dattaprasad Mundada
 name:Mahaddev Vyavahare Email:mahadev.wce@gmail.com
 tushar pawar tusharpawar2012@gmail.com
 Added name -tushar
+
