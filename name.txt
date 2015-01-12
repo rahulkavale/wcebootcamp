@@ -1,7 +1,10 @@
 Shikha Dixit
 Pooja Gupta
 Rahul Kavale
+<<<<<<< HEAD
 
+=======
+>>>>>>> name added
 Suyog Jain
 Pushkar Dravid
 Pushkar Dravid
@@ -11,10 +14,12 @@ Dattaprasad Mundada
 Email-ID:dbmundada333@gmail.comName: Shridhar Deshmukh
 Anusha Bhat 
 Rajnandini Ranbhare
+<<<<<<< HEAD
 
+=======
+>>>>>>> name added
 Name: Rhushikesh Apte
 Name: Shridhar Deshmukhd
-
 Rohio
 Shriyog
 Anusha Bhat 
@@ -25,7 +30,10 @@ Yashashree Nalawade . Kolhapur
 Rohio
 Shriyog
 Name: Shridhar Deshmukh
+<<<<<<< HEAD
 
+=======
+>>>>>>> name added
 Name: Rhushikesh Apte
 Name: Shridhar Deshmukhd
 Rohio
@@ -70,43 +78,13 @@ Rushikesh Dharmadhikari
 Dnyanesh C. Kulkarni
 dckulkarni41826@gmail.com
 Radhika Tiwari
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> Added name Rushikesh
-
-
->>>>>>> added name
 Roho 2 added
 
 cse
-=======
 Dattaprasad Mundada
 Rahul Kavale
 Radhika Tiwari
 radhikatiwari1708@gmail.com
->>>>>>> added name
-
 Bye Friends
 gopi
 Shital
@@ -121,4 +99,5 @@ vaishnvi mande
 sadhana kale akshara
 Shilkumar jadhav shilkumarjadhav@gmail.c
 Shilkumar jadhav 
->>>>>>> qtw
+java
+shil1
