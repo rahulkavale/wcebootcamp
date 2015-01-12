@@ -61,8 +61,6 @@ Roho added
 hemant bhingarde
 swapnil gaikwad
 Shantanu jamble
-Pooja Kale
-Shikha Dixit
 Rushikesh Dharmadhikari
 
 
@@ -88,8 +86,8 @@ Rushikesh Dharmadhikari
 
 
 
->>>>>>> Added name Rushikesh
 
+Dnyanesh C. Kulkarni
 
 Roho 2 added
 
@@ -99,11 +97,7 @@ Bye Friends
 gopi
 Shital
 java
-<<<<<<< HEAD
-shil1
-=======
-=======
 Pooja Kale
 Shikha Dixit
->>>>>>> added name
->>>>>>> added name
+shil1
+>>>>>>> Information name.txt
