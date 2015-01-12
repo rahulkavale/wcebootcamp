@@ -44,18 +44,8 @@ added names
 Aditya A. Doshatti
 added name Sar
 Added name -tushar
-<<<<<<< HEAD
-=======
 New Name:tushar
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> My name is added
 
-=======
->>>>>>> My name is added
-=======
-My name is added
->>>>>>> qtw
 Name:tushar
 Anusha Bhat
 Rajnandini Ranbhare
@@ -65,50 +55,14 @@ Dattaprasad Mundada
 Rohan kulkarni 
 Aditya Doshatti
 Gopinath
-<<<<<<< HEAD
-=======
-added names
->>>>>>> My name is added
+added name
 Roho added
 hemant bhingarde
 swapnil gaikwad
 Shantanu jamble
-<<<<<<< HEAD
-<<<<<<< HEAD
 Rushikesh Dharmadhikari
-
-
-
-
-
-
-
-
-=======
-<<<<<<< HEAD
->>>>>>> My name is added
-
-
-
-
-
-
-
-
-
-
-=======
->>>>>>> qtw
-
-
-
-
-
-
-
 Dnyanesh C. Kulkarni
-
-<<<<<<< HEAD
+dckulkarni41826@gmail.com
 Roho 2 added
 
 cse
@@ -116,10 +70,6 @@ cse
 Bye Friends
 gopi
 Shital
-<<<<<<< HEAD
-java
-<<<<<<< HEAD
-<<<<<<< HEAD
 Pooja Kale
 Shikha Dixit
 Pushkar Dravid
@@ -129,9 +79,6 @@ add my name
 Roho 2 added
 vaishnvi mande
 sadhana kale akshara
-=======
-Shilkumar jadhav shilkumarjadhav@gmail.com
->>>>>>> My name is added
-=======
+Shilkumar jadhav shilkumarjadhav@gmail.c
 Shilkumar jadhav 
 >>>>>>> qtw
