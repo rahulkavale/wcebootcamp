@@ -1,5 +1,6 @@
 Rahul Kavale
 Pushkar Dravid
+<<<<<<< HEAD
 Vaibhav More
 Dattaprasad Mundada
 Name: Rhushikesh Apte
@@ -9,5 +10,8 @@ Pushkar Dravid
 Dattaprasad Mundada
 name:Mahaddev Vyavahare Email:mahadev.wce@gmail.com
 tushar pawar tusharpawar2012@gmail.com
-Added name -tushar
-
+Added name tushar
+Dattaprasad Mundada
+Sarang Joshi
+added name Sarang
+added name Sarang
