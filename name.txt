@@ -1,16 +1,23 @@
-<<<<<<< HEAD
+
 Rahul Kavale
-<<<<<<< HEAD
+
 
 Suyog Jain
 
 Pushkar Dravid
 
 
+
+
 Pushkar Dravid
 Vaibhav More
 Dattaprasad Mundada
 Name: Rhushikesh Apte
+
+
+Rohio
+Shriyog
+
 Name: Shridhar Deshmukh
 Kingslayer
 Pushkar Dravid
@@ -22,8 +29,22 @@ Dattaprasad Mundada
 Sarang Joshi
 added name Sarang
 added name Sarang
+<<<<<<< HEAD
 Aditya Doshatti
 added name Sar
 Added name -tushar
 New Name:tushar
 Suyog
+
+Aditya A. Doshatti
+added name Sar
+Added name -tushar
+Name:tushar
+Anusha Bhat
+Rajnandini Ranbhare
+Yashashree Nalawade
+Pushkar Dravid
+Dattaprasad Mundada
+Rohan kulkarni 
+
+
