@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rahul Kavale
 Pushkar Dravid
 <<<<<<< HEAD
@@ -32,4 +33,10 @@ Dattaprasad Mundada
 Sarang Joshi
 added name Sarang
 added name Sarang
+<<<<<<< HEAD
 >>>>>>> 8d3aaed318b459881b7e007b229f79c6d2d8b157
+=======
+Aditya Doshatti
+added name Sar
+Added name -tushar
+>>>>>>> 2bb6c381f142cfc55b1f8f87ea0e4da73604b781
