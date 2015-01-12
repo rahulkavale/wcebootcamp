@@ -1,5 +1,4 @@
 Rahul Kavale
-<<<<<<< HEAD
 Suyog Jain
 Pushkar Dravid
 Pushkar Dravid
@@ -18,6 +17,14 @@ Rohio
 Shriyog
 Name: Shridhar Deshmukh
 
+Anusha Bhat 
+Rajnandini Ranbhare
+Name: Rhushikesh Apte
+Name: Shridhar Deshmukhd
+Rohio
+Shriyog
+Name: Shridhar Deshmukh
+>>>>>>> added name
 Kingslayer
 Pushkar Dravid
 Dattaprasad Mundada Email-ID:dbmundada333@gmail.com 
@@ -38,7 +45,7 @@ Aditya A. Doshatti
 added name Sar
 Added name -tushar
 New Name:tushar
-
+ added name
 Name:tushar
 Anusha Bhat
 Rajnandini Ranbhare
@@ -49,13 +56,13 @@ Rohan kulkarni
 Aditya Doshatti
 Gopinath
 added names
-
+added name
 Roho added
-
 hemant bhingarde
 swapnil gaikwad
 Shantanu jamble
-=======
+Pooja Kale
+Shikha Dixit
 Rushikesh Dharmadhikari
 
 
@@ -92,4 +99,11 @@ Bye Friends
 gopi
 Shital
 java
+<<<<<<< HEAD
 shil1
+=======
+=======
+Pooja Kale
+Shikha Dixit
+>>>>>>> added name
+>>>>>>> added name
