@@ -8,7 +8,6 @@ c
 Vaibhav More
 Dattaprasad Mundada
 Email-ID:dbmundada333@gmail.comName: Shridhar Deshmukh
-
 Anusha Bhat 
 Rajnandini Ranbhare
 
@@ -17,7 +16,6 @@ Name: Shridhar Deshmukhd
 
 Rohio
 Shriyog
-Name: Shridhar
 Anusha Bhat 
 Rajnandini Ranbhare
 Name: Rhushikesh Apte
@@ -45,11 +43,7 @@ added names
 Aditya A. Doshatti
 added name Sar
 Added name -tushar
-New Name:tushar
-<<<<<<< HEAD
- added name
-=======
->>>>>>> add my name
+
 Name:tushar
 Anusha Bhat
 Rajnandini Ranbhare
@@ -59,11 +53,6 @@ Dattaprasad Mundada
 Rohan kulkarni 
 Aditya Doshatti
 Gopinath
-<<<<<<< HEAD
-added names
-added name
-=======
->>>>>>> add my name
 Roho added
 hemant bhingarde
 swapnil gaikwad
@@ -96,6 +85,7 @@ Rushikesh Dharmadhikari
 
 Dnyanesh C. Kulkarni
 
+<<<<<<< HEAD
 Roho 2 added
 
 cse
@@ -107,17 +97,9 @@ Shital
 java
 Pooja Kale
 Shikha Dixit
-<<<<<<< HEAD
-shil1
->>>>>>> Information name.txt
 Pushkar Dravid
 Dhananjay Khaparkhuntikar
-=======
->>>>>>> added name
->>>>>>> added name
-=======
-
 Vaishnavi Mande
 add my name
->>>>>>> add my name
->>>>>>> add my name
+Roho 2 added
+vaishnvi mande
