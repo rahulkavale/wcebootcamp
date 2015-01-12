@@ -1,42 +1,28 @@
-<<<<<<< HEAD
 Rahul Kavale
 Pushkar Dravid
-<<<<<<< HEAD
+
 Vaibhav More
 Dattaprasad Mundada
-<<<<<<< HEAD
-<<<<<<< HEAD
- Email-ID:dbmundada333@gmail.comName: Shridhar Deshmukh
+Email-ID:dbmundada333@gmail.comName: Shridhar Deshmukh
 =======
 Anusha Bhat 
 Rajnandini Ranbhare
 =======
 Name: Rhushikesh Apte
->>>>>>> 8d3aaed318b459881b7e007b229f79c6d2d8b157
-Name: Shridhar Deshmukh
->>>>>>> 8254f7c640c31980931b081836abbe22e324007d
+Name: Shridhar Deshmukhd
 Kingslayer
 Pushkar Dravid
 Dattaprasad Mundada Email-ID:dbmundada333@gmail.com 
 name:Mahaddev Vyavahare Email:mahadev.wce@gmail.com
-<<<<<<< HEAD
 
 =======
 tushar pawar tusharpawar2012@gmail.com
-<<<<<<< HEAD
-Added name -tushar
-
->>>>>>> 8254f7c640c31980931b081836abbe22e324007d
-=======
-Added name tushar
+Added name -tusharname tushar
 Dattaprasad Mundada
 Sarang Joshi
 added name Sarang
 added name Sarang
-<<<<<<< HEAD
->>>>>>> 8d3aaed318b459881b7e007b229f79c6d2d8b157
-=======
 Aditya Doshatti
 added name Sar
 Added name -tushar
->>>>>>> 2bb6c381f142cfc55b1f8f87ea0e4da73604b781
+New Name:tushar
