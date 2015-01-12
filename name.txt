@@ -6,23 +6,21 @@ c
 Vaibhav More
 Dattaprasad Mundada
 Email-ID:dbmundada333@gmail.comName: Shridhar Deshmukh
-=======
+
 Anusha Bhat 
 Rajnandini Ranbhare
-=======
+
 Name: Rhushikesh Apte
 Name: Shridhar Deshmukhd
-=======
+
 Rohio
 Shriyog
 Name: Shridhar Deshmukh
->
+
 Kingslayer
 Pushkar Dravid
 Dattaprasad Mundada Email-ID:dbmundada333@gmail.com 
 name:Mahaddev Vyavahare Email:mahadev.wce@gmail.com
-
-=======
 tushar pawar tusharpawar2012@gmail.com
 Added name -tusharname tushar
 Dattaprasad Mundada
@@ -39,7 +37,7 @@ Aditya A. Doshatti
 added name Sar
 Added name -tushar
 New Name:tushar
-=======
+
 Name:tushar
 Anusha Bhat
 Rajnandini Ranbhare
@@ -50,10 +48,19 @@ Rohan kulkarni
 Aditya Doshatti
 Gopinath
 added names
-<<<<<<< HEAD
+
 Roho added
 
 hemant bhingarde
 swapnil gaikwad
 Shantanu jamble
+
+
+Roho 2 added
+
+cse
+
+Bye Friends
+gopi
+Shital
 
